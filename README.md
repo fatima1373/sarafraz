@@ -1,2 +1,2 @@
 # sarafraz
-proje one 
+proje one is bad
